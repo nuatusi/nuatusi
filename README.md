@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ## I'm Nasir Uddin Ahamed
 
-- 🔭 I’m currently working on Oracle, ERP Implementation and IT Projects as a Team Lead
+- 🔭 I’m currently working as a Team Lead for Oracle, ERP Implementation and IT Projects
 - 🌱 I’m currently learning Java, PHP, JavaScripts
 - 👯 I’m looking to collaborate on ERP Implementation
 - 🤔 I’m looking for help with expert developers
