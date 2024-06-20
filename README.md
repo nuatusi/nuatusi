@@ -5,13 +5,11 @@
 - 🌱 I’m currently learning Java, PHP, JavaScripts
 - 👯 I’m looking to collaborate on ERP Implementation
 - 🤔 I’m looking for help with expert developers
-- 💬 Ask me about Oracle Database, ERP Implementaion and IT Project Business Analysis
+- 💬 Ask me about Oracle Database, ERP Implementaion and IT Project Management
 - 📫 Join me: <div>
               https://www.linkedin.com/in/nuatusi/ </div>
               <div>
               https://twitter.com/nua_tusi/ </div>
-              <div>
-              https://www.facebook.com/nua.tusi/ </div>
               
 <!--
 **nuatusi/nuatusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
